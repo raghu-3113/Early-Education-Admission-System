@@ -15,6 +15,16 @@ The project framework and guidance were provided externally, with emphasis on **
 
 ---
 
+
+## 👥 Team Members
+
+- CH. Vamsi Krishna
+- G. Sasi Kumar
+- P. Jeevan
+- N. Raghu Babu
+- U. Poojitha
+
+
 ## 🧠 Core Idea
 The core idea of EEAS is to **replace manual, paper-based preschool admissions with a centralized online platform**, improving accessibility for parents and operational efficiency for school administrators.
 
